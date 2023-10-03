@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "axois": "^0.0.1-security",
+    "mime-db": "^1.52.0",
+    "node-fetch": "^3.3.2"
+  }
+}
